@@ -10,7 +10,7 @@ AI-Driven Security · Human Risk Intelligence · Controlled Red Team Simulations
 
 PhantomShield is a Python-first AI security platform designed to quantify human cyber risk using controlled, auditable AI-driven simulations.
 
-It is built for:
+It is built for: 
 - Agencies
 - MSPs
 - Security consultants
